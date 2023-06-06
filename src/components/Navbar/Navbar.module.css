@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  height: 70px;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  top: 0;
+  box-shadow: 0 0 2px black;
+}
+.logo img {
+  width: 70px;
+}
+
+.Link {
+  text-decoration: none;
+}

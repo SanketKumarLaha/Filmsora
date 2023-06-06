@@ -1,0 +1,29 @@
+.summary {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.mainbody {
+  width: 400px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.summaryContent {
+  width: 80%;
+  font-size: larger;
+  margin-bottom: 1rem;
+}
+.btn button {
+  padding: 8px;
+  background-color: white;
+  cursor: pointer;
+}
+.btn button:hover {
+  background-color: rgb(235, 235, 235);
+}
