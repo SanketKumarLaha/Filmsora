@@ -48,6 +48,7 @@ const Modal = ({ showModal, setShowModal, movieName }) => {
                   type="text"
                   id="username"
                   name="username"
+                  autoComplete="off"
                   value={username}
                   onChange={handleChange}
                 />

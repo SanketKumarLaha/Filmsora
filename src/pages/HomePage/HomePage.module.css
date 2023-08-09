@@ -20,7 +20,7 @@
 .imageDiv {
   width: 90%;
   height: 80%;
-  background-color: pink;
+  background-color: rgb(177, 174, 174);
   overflow: hidden;
   display: flex;
   align-items: center;
